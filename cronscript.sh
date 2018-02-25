@@ -1,4 +1,5 @@
 #!/bin/sh
+crontab -l
 crontab -e 
 #not display in the console
 #Run every minute
